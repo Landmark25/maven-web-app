@@ -94,7 +94,7 @@
 	</dependencies>
 	
 	<distributionManagement>
-	    <repository>
+	  <!--  <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
@@ -105,7 +105,7 @@
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
 	    </snapshotRepository>
-
+	-->
 	    <repository>
 	      <id>nexus</id>
 	      <name>Ebay Releases Nexus Repository</name>
