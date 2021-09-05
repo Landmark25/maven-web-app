@@ -109,13 +109,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Ebay Releases Nexus Repository</name>
-	      <url>http://3.92.66.71:8081/repository/Ebay-Release/</url>
+	      <url>http://34.227.111.212:8081/repository/Ebay-Release/</url>
 	    </repository>
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ebay Snapshot Nexus Repository </name>
-	      <url>http://3.92.66.71:8081/repository/Ebay-Sanpshot/</url>
+	      <url>http://34.227.111.212:8081/repository/Ebay-Sanpshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
