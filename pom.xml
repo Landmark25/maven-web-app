@@ -108,13 +108,13 @@
 	-->
 	    <repository>
 	      <id>nexus</id>
-	      <name>Ebay Releases Nexus Repository</name>
+	      <name>Milua Releases Nexus Repository</name>
 	      <url>http://3.96.218.185:8081/repository/Maven-test-Release/</url>
 	    </repository>
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Ebay Snapshot Nexus Repository </name>
+	      <name>Milua Snapshot Nexus Repository </name>
 	      <url>http://15.222.3.19:8081/repository/Maven-test-Snapshot/</url>
 	    </snapshotRepository>
 
