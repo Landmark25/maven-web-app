@@ -115,7 +115,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ebay Snapshot Nexus Repository </name>
-	      <url>http://3.96.218.185:8081/repository/Maven-test-Snapshot/</url>
+	      <url>http://15.222.3.19:8081/repository/Maven-test-Snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
