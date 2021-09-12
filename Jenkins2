@@ -1,7 +1,7 @@
 node
  {
   
-  def mavenHome = tool name: "Maven3.8.2"
+  def mavenHome = tool name: "Maven 3.8.2"
   
       echo "GitHub BranhName ${env.BRANCH_NAME}"
       echo "Jenkins Job Number ${env.BUILD_NUMBER}"
