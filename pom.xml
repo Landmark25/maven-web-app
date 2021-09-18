@@ -122,7 +122,7 @@
 	</distributionManagement>
 	
 	<build>
-		<!-- <finalName>ebay-bts-project</finalName> -->
+		<finalName>ebay-bts-project</finalName>
 		
 		<plugins>
 			<plugin>
