@@ -41,7 +41,7 @@ node
             input message: "Please this needs your approval"
         } 
      }
-  
+ }
   
   /*
   stage("CheckOutCodeGit")
