@@ -121,7 +121,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>ebay-bts-project</finalName>
 		
 		<plugins>
 			<plugin>
