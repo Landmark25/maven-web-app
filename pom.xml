@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>ebay-bts-project</artifactId>
+	<artifactId>maven-web-app</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.3-SNAPSHOT</version>
 	
@@ -122,7 +122,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ebay-bts-project</finalName>
+		<finalName>maven-web</finalName>
 		
 		<plugins>
 			<plugin>
