@@ -1,6 +1,4 @@
-node
- {
-  
+node { 
   // def mavenHome = tool name: "maven3.6.2"
     def MavenHome= tool name: 'maven3.6.3'
 
