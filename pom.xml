@@ -109,14 +109,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Milua Releases Nexus Repository</name>
-	      <url>http://3.96.175.86:8081/repository/ebay-bts-project/</url>
+	      <url>http://54.90.219.116:8888/myhephzibah/repository/Ebay-Release/</url>
 	    </repository>
 		
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Milua Snapshot Nexus Repository </name>
-	      <url>http://3.96.175.86:8081/repository/ebay-bts-project-snapshot/</url>
+	      <url>http://54.90.219.116:8888/myhephzibah/repository/Ebay-Snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
